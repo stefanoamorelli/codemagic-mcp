@@ -88,7 +88,7 @@ Interact with Codemagic CI/CD using natural language.
 |:---|:---|
 | **Applications API** | `get_all_applications`, `get_application`, `add_application`, `add_application_private` |
 | **Artifacts API** | `get_artifact`, `create_public_artifact_url` |
-| **Builds API** | `start_build`, `get_builds`, `get_build_status`, `cancel_build` |
+| **Builds API** | `start_build`, `get_builds`, `get_build_status`, `cancel_build`, `get_build_step_log` |
 | **Caches API** | `get_app_caches`, `delete_all_app_caches`, `delete_app_cache` |
 | **Teams API** | `invite_team_member`, `delete_team_member` |
 
